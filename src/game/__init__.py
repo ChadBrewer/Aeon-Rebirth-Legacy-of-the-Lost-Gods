@@ -4,6 +4,7 @@
 from .player import Player
 from .enemy import Enemy
 from .item import Item
+from .game import Game
 
 # Optionally, you could initialize things like a list of game objects
 game_objects = []

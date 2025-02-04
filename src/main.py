@@ -1,6 +1,6 @@
 import pygame
 from settings import Settings
-from game import Game
+from game.game import Game
 
 def run_game():
     # Initialize Pygame
